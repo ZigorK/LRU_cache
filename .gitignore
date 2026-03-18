@@ -1,0 +1,14 @@
+# Директории сборки
+build/
+build-*/
+cmake-build-*/
+
+# Временные файлы
+*.o
+*.exe
+*.out
+*.app
+
+# Файлы IDE
+.vscode/
+.idea/
